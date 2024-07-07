@@ -1,5 +1,0 @@
-FEE Dados Abertos disponível em <https://dados.fee.tche.br/>
-
-Inicial > Árvore de Variáveis > Agricultura > Culturas Temporárias > Arroz/Milho/Soja > Área Plantada > 2000-2022
-
-Acesso em 12 de junho de 2024

@@ -1,0 +1,22 @@
+Fonte: IBGE - Produção Agrícola Municipal - Tabela 1612 disponível em <https://sidra.ibge.gov.br/tabela/1612>
+
+Produção Agrícola Municipal
+Tabela 1612 - Área plantada, área colhida, quantidade produzida, rendimento médio e valor da produção das lavouras temporárias
+
+Variável
+Área Plantada (Hectares)
+
+Produto das lavouras temporárias
+Arroz (em casca)
+Milho (em grão)
+Soja (em grão)
+
+Ano 
+2006-2022
+
+Unidade Territorial 
+Mesorregiões do RS
+Microrregiões do RS
+Municípios do RS
+
+Acesso em 06 de julho de 2024
